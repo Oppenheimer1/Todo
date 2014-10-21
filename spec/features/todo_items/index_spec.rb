@@ -29,4 +29,3 @@ describe "Viewing todo items" do
     end
   end
 end
-
